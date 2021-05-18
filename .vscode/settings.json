@@ -1,0 +1,11 @@
+{
+    "json.schemas": [
+        {
+            "fileMatch": [
+                "*.test"
+            ],
+            "url": "./foo-schema.json"
+        }
+    ],
+    "json.trace.server": "verbose"
+}
